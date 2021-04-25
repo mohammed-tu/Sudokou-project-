@@ -1,0 +1,13 @@
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.exe
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.deps.json
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.runtimeconfig.json
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.runtimeconfig.dev.json
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.dll
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\bin\Debug\netcoreapp3.1\Sudokou-project-1.pdb
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.csprojAssemblyReference.cache
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.AssemblyInfoInputs.cache
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.AssemblyInfo.cs
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.csproj.CoreCompileInputs.cache
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.dll
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.pdb
+C:\Users\temx3\source\repos\Sudokou-project-1\Sudokou-project-1\obj\Debug\netcoreapp3.1\Sudokou-project-1.genruntimeconfig.cache
